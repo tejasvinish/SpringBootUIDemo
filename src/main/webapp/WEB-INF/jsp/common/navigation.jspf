@@ -1,0 +1,16 @@
+<nav role="navigation" class="navbar navbar-default">
+	<div class="">
+		
+	</div>
+	<div class="navbar-collapse">		
+		<ul>
+			<li class="active"><a href="/">Home</a></li>
+		</ul>
+		<ul>
+			<li><a href="/list-tasks">Tasks</a></li>
+		</ul>		
+		<ul>
+			<li><a href="/logout">Logout</a></li>
+		</ul>
+	</div>
+</nav>
